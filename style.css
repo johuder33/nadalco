@@ -3,7 +3,7 @@ body{
 	background: ivory;
 }
 
-.border{
+.borders{
 	border:1px solid blue;
 }
 
@@ -91,7 +91,7 @@ p{
 .box-font-sn{
 	display: block;
 	padding:2px;
-	border:1px solid black;
+	/*border:1px solid black;*/
 }
 
 .list-sn{

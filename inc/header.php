@@ -14,7 +14,7 @@
 
 <div class="container">
 	<div class="col-xs-12 col-sm-2 col-sm-offset-5 col-md-2 col-md-offset-5 col-lg-2 col-lg-offset-5">
-		<a href="#!">
+		<a href="index.php">
 			<img src="assets/images/logo.png" alt="Logo Nadalco" title="Nadalco" class="img-responsive" />
 		</a>
 
@@ -42,13 +42,13 @@
 					<a href="index.php">Quienes Somos</a>
 				</li>
 				<li>
-					<a href="importacion.php">Importación</a>
+					<a href="#!">Importación</a>
 				</li>
 				<li>
 					<a href="exportacion.php">Exportación</a>
 				</li>
 				<li>
-					<a href="contacto.php">Contacto</a>
+					<a href="#!">Contacto</a>
 				</li>
 			</ul>
     	</div>

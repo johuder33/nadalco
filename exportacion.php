@@ -6,15 +6,15 @@ include_once("inc/header.php");
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 border text-center">
 			<p>
-				Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como 
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus beatae, pariatur fuga recusandae commodi ab ut, sapiente ipsa fugit assumenda maxime inventore dolor numquam dolore! Qui a, id error quidem eveniet! Voluptatibus reprehenderit aperiam iure, fuga totam expedita illum, alias excepturi nulla maiores nam non ipsam commodi earum consequuntur, error atque vel magnam laboriosam ratione ipsa obcaecati officiis? Officiis nulla atque explicabo ducimus rem tempore alias, iste vero dicta esse consectetur maxime fugit, debitis mollitia ipsum placeat quidem at commodi, in quaerat. Dicta itaque commodi rerum? Incidunt ullam illum maiores qui, accusamus, doloremque expedita sed veritatis sint impedit rem explicabo.
 			</p>
 
 			<p>
-				sts que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? 
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et assumenda quia tenetur, dolorem at hic excepturi, officia voluptas animi omnis repudiandae culpa. Iure incidunt consectetur impedit, provident voluptatum totam sunt.
 			</p>
 
 			<p>
-				ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como ests que tal ha ido todo ? Hola como e	
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis ipsum minus, vero. Ad, nulla.
 			</p>			
 		</div>
 	</div>
@@ -39,7 +39,7 @@ include_once("inc/header.php");
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 			<div class="row">
-				<img src="http://placehold.it/1200x350" class="img-responsive" />
+				<img src="http://placekitten.com/1200/350" class="img-responsive" />
 			</div>
 		</div>
 	</div>
